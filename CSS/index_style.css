@@ -3,17 +3,12 @@
   margin: 0;
 }
 
-html {
-  height: 100%;
-}
-
 @font-face {
   font-family: yellowGinger;
   src: url("../fonts/Yellow\ Ginger.ttf");
 }
 
 body {
-  height: 100%;
   background-image: url("../images/homepage_image.jpg");
   background-position: center;
   background-repeat: no-repeat;
